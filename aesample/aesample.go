@@ -1,10 +1,11 @@
 package aesample
 
 import (
-	"aesample/subpkga"
-	"aesample/util"
 	"fmt"
 	"net/http"
+
+	"github.com/mzimmerman/aesample/subpkga"
+	"github.com/mzimmerman/aesample/util"
 )
 
 func init() {

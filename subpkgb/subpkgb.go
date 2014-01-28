@@ -1,9 +1,10 @@
 package subpkgb
 
 import (
-	"aesample/util"
 	"fmt"
 	"net/http"
+
+	"github.com/mzimmerman/aesample/util"
 )
 
 func init() {
